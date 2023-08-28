@@ -6,6 +6,7 @@
    <UUID>0c0ab468-f3c4-4f0d-84ab-d82eff07dbd4</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\TDS\git\test\test.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
